@@ -1,0 +1,2 @@
+# factorial
+to calculate factorial
