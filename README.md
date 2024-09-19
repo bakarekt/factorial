@@ -1,2 +1,2 @@
-# factorial
-to calculate factorial
+# Faactorial
+To calculate factorial of a given number (literally)
